@@ -43,3 +43,11 @@ perfil do comtribuidor: https://github.com/mateus1313dev
 ###### imagem com link
 
 [![logo javascript](javascript-logo-transparent-logo-javascript-images-3.png)](https://github.com/mateus1313dev)
+
+#### codigo da funcao soma
+
+```javascript
+function soma(v1,v2) {
+    return v1 + v2
+}
+```
