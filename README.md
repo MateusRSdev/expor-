@@ -23,3 +23,7 @@ _Checkout, **tela de produto**, Catalogo, Home com banner_
 2. Integracao com outros pagamentos
 3. sistema de bonus primeira compra
 4. Carrinho de compras salvo no servidor
+
+#### imagem local
+
+![logo javascript](javascript-logo-transparent-logo-javascript-images-3.png)
