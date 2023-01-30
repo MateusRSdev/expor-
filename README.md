@@ -55,7 +55,7 @@ function soma(v1,v2) {
 ## listas de tarefas
 
 
-- [ x ] area de menbros
+- [x] area de menbros
 - [ ] integracao com outros pagamentos
 - [ ] lista de membros
 - [ ] siatema de bonus
