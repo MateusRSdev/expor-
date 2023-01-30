@@ -30,4 +30,4 @@ _Checkout, **tela de produto**, Catalogo, Home com banner_
 
 #### imagem externa 
 
-![imagem externa](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APHP-logo.svg&psig=AOvVaw2ryvzUMCL4hARWTjrAzXuh&ust=1675182515853000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiqjKjb7_wCFQAAAAAdAAAAABAE)
+![imagem externa](https://logospng.org/download/php/logo-php-1024.png)
